@@ -59,6 +59,7 @@ BabbleSpell:RegisterTranslations("enUS", function()
 		["Arcane Bolt"] = true,
 		["Arcane Brilliance"] = true,
 		["Arcane Concentration"] = true,
+		["Arcane Eclipse"] = true,
 		["Arcane Explosion"] = true,
 		["Arcane Focus"] = true,
 		["Arcane Instability"] = true,
